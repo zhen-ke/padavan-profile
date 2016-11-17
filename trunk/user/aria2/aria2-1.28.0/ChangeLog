@@ -1,0 +1,164 @@
+commit 938481bfe9c1edffd963cf067861d606d4c12db4 (HEAD, tag: release-1.28.0, origin/master, origin/HEAD, master)
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-16
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-16
+
+    Update NEWS
+
+commit a41cc63779e60389a2b797613393afa6593dce49
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-16
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-16
+
+    mingw: Update third-party libraries
+
+commit 9cdfd4bb8ada4534c20eb5730bac246dad1d0a6a
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-16
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-16
+
+    android: Update third-party libraries
+
+commit 3740a2aef8b62e5eade1ca374160ae5cbfe660a5
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-16
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-16
+
+    Update bash_completion
+
+commit f58081a6f601818d9b5475d61108c189d8882f5c
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-16
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-16
+
+    Bump up version number to 1.28.0
+
+commit 57843a0732d1483637bfcc0e411c78132489adb1
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-16
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-16
+
+    Update AUTHORS
+
+commit df19921b833d9a46c68fce1da4e54ec677cfa65d
+Merge: 54e4651 aa4ea88
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-15
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-15
+
+    Merge branch 'clang-format-3.9'
+
+commit aa4ea8889c827df4b178b6ae6259b82e86bfbc5f
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-15
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-15
+
+    clang-format-3.9
+
+commit a7fcf83bdfabf213d80e32d72561764f82e6782d
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-10-15
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-10-15
+
+    Update .clang-format to clang-format-3.9
+
+commit 54e465194b65b621b438c695e4593f93937160d6
+Merge: bed7411 7be69be
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-09-29
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2016-09-29
+
+    Merge pull request #750 from ITriskTI/patch-1
+    
+    Update aria2c.rst
+
+commit 7be69be3b49bc3699c6cc233a62ad783b71926ad
+Author:     ITriskTI <ITriskTI@gmail.com>
+AuthorDate: 2016-09-29
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2016-09-29
+
+    Update aria2c.rst
+
+commit bed74118192d7b435d75d7c2282d605a1a4cff5d
+Merge: ae78d7f 206d6fc
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-09-29
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2016-09-29
+
+    Merge pull request #749 from juanfra684/patch-1
+    
+    Restore LTLIBINTL in src/Makefile.am
+
+commit 206d6fc062b63f990ee375d0fecab4662ac3679a
+Author:     Juan Francisco Cantero Hurtado <iam@juanfra.info>
+AuthorDate: 2016-09-29
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2016-09-29
+
+    Restore LTLIBINTL in src/Makefile.am
+
+commit ae78d7f7d06404c10fb58dcbce4180075fbae45a
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-09-26
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-09-26
+
+    Enable --keep-unfinished-download-result by default
+
+commit e31f537ac51f679da91cd79e2f8c933fa21bcb7c
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-09-26
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-09-26
+
+    Update copyright year to 2016
+
+commit 55f311a9084aba9f0601388183ff10abb0baac8c
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-09-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-09-24
+
+    Add --keep-unfinished-download-result option
+    
+    This option keeps unfinished download results even if doing so exceeds
+    --max-download-result. This is useful if all unfinished downloads must
+    be saved in session file (see --save-session option). Please keep in
+    mind that there is no upper bound to the number of unfinished download
+    result to keep.  User should use this option only when they know the
+    total number of downloads in advance.
+
+commit c3aedf480dd4e224165d9b8b5ed8735191eede6c
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-09-19
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-09-19
+
+    Fix -Wexpansion-to-defined warning with clang-3.9
+    
+    The error message was:
+    
+    warning: macro expansion producing 'defined' has undefined behavior
+    [-Wexpansion-to-defined]
+    
+    http://lists.llvm.org/pipermail/cfe-commits/Week-of-Mon-20160118/147239.html
+
+commit a31e73d902d9e08df1a29556b81f52469b9353f2
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2016-09-17
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2016-09-17
+
+    Fix bug that file name is not logged with --conditional-get

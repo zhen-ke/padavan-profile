@@ -1,0 +1,43 @@
+aria2 1.28.0
+============
+
+Release Note
+------------
+
+This release fixes the bug that file name is not logged with
+--conditional-get option is used.  The new option
+--keep-unfinished-download-result was added to keep incomplete
+downloads in memory regardless of --max-download-result so that we can
+save those downloads with --save-session option.  This option is
+enabled by default.
+
+This release
+
+Changes
+-------
+
+* Restore LTLIBINTL in src/Makefile.am
+
+  Patch from Juan Francisco Cantero Hurtado
+
+* Add --keep-unfinished-download-result option
+
+  This option keeps unfinished download results even if doing so
+  exceeds --max-download-result.  This is useful if all unfinished
+  downloads must be saved in session file (see --save-session option).
+  Please keep in mind that there is no upper bound to the number of
+  unfinished download result to keep.  This option is enabled by
+  default.
+
+* Fix -Wexpansion-to-defined warning with clang-3.9
+
+  The error message was:
+
+  warning: macro expansion producing 'defined' has undefined behavior
+  [-Wexpansion-to-defined]
+
+  http://lists.llvm.org/pipermail/cfe-commits/Week-of-Mon-20160118/147239.html
+
+* Fix bug that file name is not logged with --conditional-get
+
+  GH-742

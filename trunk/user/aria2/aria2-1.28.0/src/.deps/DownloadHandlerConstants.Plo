@@ -1,0 +1,83 @@
+DownloadHandlerConstants.lo: DownloadHandlerConstants.cc \
+ DownloadHandlerConstants.h common.h ../config.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include/stdint.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/stdint.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/features.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/uClibc_config.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/cdefs.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/wchar.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/wordsize.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/inttypes.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/types.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/types.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include/stddef.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/typesizes.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/pthreadtypes.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/endian.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/endian.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/byteswap.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/byteswap.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/byteswap-common.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sgidefs.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/time.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/select.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/select.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/sigset.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/time.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/sysmacros.h
+
+DownloadHandlerConstants.h:
+
+common.h:
+
+../config.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include/stdint.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/stdint.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/features.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/uClibc_config.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/cdefs.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/wchar.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/wordsize.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/inttypes.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/types.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/types.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include/stddef.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/typesizes.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/pthreadtypes.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/endian.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/endian.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/byteswap.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/byteswap.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/byteswap-common.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sgidefs.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/time.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/select.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/select.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/sigset.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/time.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/sysmacros.h:

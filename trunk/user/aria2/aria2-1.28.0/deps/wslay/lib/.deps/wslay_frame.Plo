@@ -1,0 +1,158 @@
+wslay_frame.lo: wslay_frame.c wslay_frame.h ../config.h \
+ includes/wslay/wslay.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include/stdint.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/stdint.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/features.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/uClibc_config.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/cdefs.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/wchar.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/wordsize.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/stdlib.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include/stddef.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/types.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/types.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/typesizes.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/pthreadtypes.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/endian.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/endian.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/byteswap.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/byteswap.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/byteswap-common.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sgidefs.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/time.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/select.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/select.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/sigset.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/time.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/sysmacros.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/alloca.h \
+ includes/wslay/wslayver.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/string.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/assert.h \
+ wslay_net.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/arpa/inet.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/netinet/in.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/socket.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/uio.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/uio.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/socket.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include-fixed/limits.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include-fixed/syslimits.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/limits.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/posix1_lim.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/local_lim.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/linux/limits.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/uClibc_local_lim.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/posix2_lim.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/sockaddr.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/asm/socket.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/asm/sockios.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/asm/ioctl.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/asm-generic/ioctl.h \
+ /opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/in.h
+
+wslay_frame.h:
+
+../config.h:
+
+includes/wslay/wslay.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include/stdint.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/stdint.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/features.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/uClibc_config.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/cdefs.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/wchar.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/wordsize.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/stdlib.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include/stddef.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/types.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/types.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/typesizes.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/pthreadtypes.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/endian.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/endian.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/byteswap.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/byteswap.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/byteswap-common.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sgidefs.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/time.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/select.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/select.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/sigset.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/time.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/sysmacros.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/alloca.h:
+
+includes/wslay/wslayver.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/string.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/assert.h:
+
+wslay_net.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/arpa/inet.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/netinet/in.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/socket.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/sys/uio.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/uio.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/socket.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include-fixed/limits.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/lib/gcc/mipsel-linux-uclibc/5.4.0/include-fixed/syslimits.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/limits.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/posix1_lim.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/local_lim.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/linux/limits.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/uClibc_local_lim.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/posix2_lim.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/sockaddr.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/asm/socket.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/asm/sockios.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/asm/ioctl.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/asm-generic/ioctl.h:
+
+/opt/rt-n56u/toolchain-mipsel/toolchain-3.4.x/include/bits/in.h:
